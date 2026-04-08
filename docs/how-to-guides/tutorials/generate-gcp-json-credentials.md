@@ -21,7 +21,7 @@ Creating a GCP JSON credentials is required to connect your GCP Account to PipeO
 
     
         ```bash
-           curl https://pub-950943fa1bc54978bed46ef104f9d81a.r2.dev/create_credentials_gcp.sh | \
+           curl https://get.pipeops.dev/create_credentials_gcp.sh | \
            bash -s -- $GOOGLE_CLOUD_PROJECT pipeops_role pipeops-service-account
         ```
     
