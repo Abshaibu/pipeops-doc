@@ -3,13 +3,13 @@ slug: deploy-ruby-sinatra-template
 title: Deploy Ruby Sinatra Template on PipeOps!
 sidebar_position: 13
 tags: [deployment, guide, ruby]
+description: "Deploy a Ruby Sinatra application on PipeOps with step-by-step instructions for workspace creation and template-based deployment."
 ---
 
 # Deploying Ruby Sinatra on PipeOps
 
 To deploy Ruby Sinatra application, you must ensure that you are already Signed up on PipeOps and Signed into your PipeOps account.
 Use the following link to [Sign Up](https://console.pipeops.io/auth/signup) and [Sign In](https://console.pipeops.io/auth/signin) to PipeOps
-
 
 ## Prerequisites:
 
@@ -31,7 +31,7 @@ Use the following link to [Sign Up](https://console.pipeops.io/auth/signup) and 
    ![2.png](https://d23lxlhhocltbo.cloudfront.net/wp-content/uploads/2024/06/13102715/32.png)
    Click **Proceed** to continue to the next stage
 
-1. In the next stage, we shall select the Build method we will be working with, in this case we would choose **Docker**. **Docker** is automatically selected for you if you have a **Dockerfile** in the root folder of your repository. 
+1. In the next stage, we shall select the Build method we will be working with, in this case we would choose **Docker**. **Docker** is automatically selected for you if you have a **Dockerfile** in the root folder of your repository.
 
    ![2.png](https://d23lxlhhocltbo.cloudfront.net/wp-content/uploads/2024/06/13102735/34.png)
    Click the **Deploy Project** button to start the build and deploy the project.
@@ -49,7 +49,7 @@ Use the following link to [Sign Up](https://console.pipeops.io/auth/signup) and 
 
    ![2.png](https://pub-30c11acc143348fcae20835653c5514d.r2.dev//20/35/overview_ebc3bc62d7.png)
 
-There are various; [History](/docs/projects/project-history), [Observability](/docs/projects/project-observability), [Logs](/docs/projects/logs-and-events#accessing-logs), [Events](/docs/projects/logs-and-events#accessing-events), [Terminal](/docs/projects/terminal) and [Settings](/docs/projects/project-setting) are used to monitor, observe, debug and re-configure the project.
+There are various; [History](/docs/projects/project-history), [Metrics](/docs/projects/project-metrics), [Logs](/docs/projects/logs-and-events#accessing-logs), [Events](/docs/projects/logs-and-events#accessing-events), [Terminal](/docs/projects/terminal) and [Settings](/docs/projects/project-setting) are used to monitor, observe, debug and re-configure the project.
 
 1. To view the application that was deployed, click the **View Project** link.
 

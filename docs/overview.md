@@ -2,36 +2,59 @@
 sidebar_position: 1
 slug: overview
 title: Overview
+description: "Get started with PipeOps documentation, explore key features like app deployment, server management, scaling, and automation."
 ---
 
 # Welcome to PipeOps Documentation
 
 ## Introduction
 
-Welcome to PipeOps, your go-to platform for seamless application and server deployment in your cloud provider account. Whether you're a seasoned developer or a newcomer to cloud infrastructure, PipeOps empowers you to efficiently manage and deploy your applications with ease.
+PipeOps is the go-to platform for seamless application and server deployment in your cloud provider account. This documentation will guide you through setting up your account, deploying your applications, and optimizing your infrastructure.
 
-## Getting Started
+## Quick Start
 
-If you're new to PipeOps, the following resources will help you get started quickly:
+If you're new to PipeOps, the following resources will help you get started in seconds:
 
-- [User Registration Guide](/docs/getting-started/user-registration.md): Easily set up your PipeOps environment.
+- [User Registration Guide](/docs/getting-started/user-registration.md): Easily set up your PipeOps account.
 - [How-To Guides](/docs/category/tutorials): Dive into a simple tutorial to deploy your first application.
 
 ## Features
 
-Explore the powerful features that PipeOps offers:
+Explore the following list of features that PipeOps offers:
 
 - **Application Deployment**: Easily deploy and manage your applications in your preferred cloud provider.
 - **Server Deployment**: Seamlessly provision and manage servers to support your applications.
 - **Scalability**: Scale your infrastructure effortlessly to meet the demands of your growing applications.
 - **Automation**: Leverage automation capabilities to streamline repetitive tasks.
+- **CLI Tool**: Use the PipeOps CLI for command-line management and CI/CD integration.
+
+## Using PipeOps
+
+PipeOps provides two primary ways to interact with the platform:
+
+### Web Console
+The intuitive web interface at [console.pipeops.io](https://console.pipeops.io) provides:
+- Visual project and server management
+- Real-time monitoring and metrics
+- Easy configuration through forms and wizards
+- Team collaboration features
+
+### Command Line Interface (CLI)
+The [PipeOps CLI](/docs/cli/overview) enables:
+- Fast command-line operations
+- Automation and scripting
+- CI/CD pipeline integration
+- Infrastructure as code workflows
+
+**Get started with the CLI**: [Installation Guide](/docs/cli/getting-started/installation) | [Quick Start](/docs/cli/getting-started/quick-start)
+
 
 ## Guides
 
 Dive deeper into specific topics with our in-depth guides:
 
 - [Hands-on Tutorials](/docs/category/tutorials): Advanced tutorials to fit your specific requirements.
-- [Deployment Templates](/docs/category/deployment-templates): Quickly setup deployment templates to get farmiliar with the platform
+- [Deployment Templates](/docs/category/deployment-templates): Quickly setup deployment templates to get familiar with the platform.
 
 ## Troubleshooting
 

@@ -3,6 +3,7 @@ slug: deploy-php-template
 title: Deploy PHP Template on PipeOps!
 sidebar_position: 5
 tags: [deployment, guide, php]
+description: "Deploy a PHP application on PipeOps with support for versions 8.1 and 8.2 using a template project and Git integration."
 ---
 
 # Deploying PHP on PipeOps
@@ -56,7 +57,7 @@ Use the following link to [Sign Up](https://console.pipeops.io/auth/signup) and 
 1. In returning to the project, we can see all the details of the project that has been configured, and some added information that tells us the status of the project.
 
    ![2.png](https://pub-30c11acc143348fcae20835653c5514d.r2.dev//20/37/project_Overview_26ae3d9fc9.png)
-   There are various; [History](/docs/projects/project-history), [Observability](/docs/projects/project-observability), [Logs](/docs/projects/logs-and-events#accessing-logs), [Events](/docs/projects/logs-and-events#accessing-events), [Terminal](/docs/projects/terminal) and [Settings](/docs/projects/project-setting) are used to monitor, observe, debug and re-configure the project.
+   There are various; [History](/docs/projects/project-history), [Metrics](/docs/projects/project-metrics), [Logs](/docs/projects/logs-and-events#accessing-logs), [Events](/docs/projects/logs-and-events#accessing-events), [Terminal](/docs/projects/terminal) and [Settings](/docs/projects/project-setting) are used to monitor, observe, debug and re-configure the project.
 
 1. To view the application that was deployed, click the **View Project** link.
 
