@@ -31,7 +31,7 @@ Choose your preferred provider from the list. Click **Connect** and follow the o
 
 ![Connect Cloud Provider](https://pub-950943fa1bc54978bed46ef104f9d81a.r2.dev/Documentation%20Images/integrations-page.png)
 
-Check out the [Integrations](/docs/category/Integrations) section for details on how to link your account.
+Check out the [Integrations](/docs/category/integrations) section for details on how to link your account.
 
 ### Step 3: Select a Plan
 
