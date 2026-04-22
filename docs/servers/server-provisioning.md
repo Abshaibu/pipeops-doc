@@ -62,7 +62,7 @@ To create a server on your chosen cloud provider, you must first connect your ac
 ![Connect Cloud Provider](https://pub-950943fa1bc54978bed46ef104f9d81a.r2.dev/Documentation%20Images/integrations-page.png)
 
 
-Check out [Integrations](/docs/category/Integrations) for detailed steps on how to link your cloud provider with PipeOps.
+Check out [Integrations](/docs/category/integrations) for detailed steps on how to link your cloud provider with PipeOps.
 
 #### Step 2: Configure Cloud Server
 

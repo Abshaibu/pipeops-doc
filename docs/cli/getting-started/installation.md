@@ -309,7 +309,7 @@ rm $(which pipeops)
 
 Now that you have the CLI installed:
 
-1. **[Authenticate](/docs/cli/getting-started/quick-start#authentication)**: Log in to your PipeOps account
+1. **[Authenticate](/docs/cli/getting-started/quick-start#step-1-authentication)**: Log in to your PipeOps account
 2. **[Configure](/docs/cli/getting-started/configuration)**: Set up your CLI preferences
 3. **[Quick Start](/docs/cli/getting-started/quick-start)**: Deploy your first project
 
